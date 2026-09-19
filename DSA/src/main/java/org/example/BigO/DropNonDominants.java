@@ -4,6 +4,7 @@ public class DropNonDominants {
     /*
  Drop non-dominant example
  here bigO(n power 2)
+ but still the other loop is n but we can't say n2 + n so we drop it and make n2
    */
     static void main() {
         printNumbers(10);
