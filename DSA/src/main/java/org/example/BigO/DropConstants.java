@@ -3,6 +3,7 @@ package org.example.BigO;
 public class DropConstants {
     /*
    Drop Constant example
+   here O(n) becomes n+n =2n =n by dropping the constant
     */
     static void main() {
         printNumbers(90);
